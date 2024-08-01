@@ -5,4 +5,3 @@ repository/UserRepository.class
 model/User.class
 service/UserService.class
 config/AppConfig.class
-web/controller/TestController.class
